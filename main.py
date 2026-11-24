@@ -6,7 +6,7 @@ import os
 
 ENTRY = (
     "fix: tiny Friday refactor, all tests green (on my machine), "
-    "shipping to prod before the weekend, what could go wrong?"
+    "shipping to prod Friday 4:59pm, rollback plan: it will be fine"
 )
 
 
